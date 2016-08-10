@@ -1,0 +1,8 @@
+{
+	/*
+		Enable Compiling on save. It will compile into the same folder.
+	*/
+	"compileOnSave": false,
+  "tab_size": 4,
+  "translate_tabs_to_spaces": false
+}	

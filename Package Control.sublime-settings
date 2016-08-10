@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Codecs26",
+		"ConvertToUTF8",
+		"ERB Snippets",
+		"HTML5",
+		"Package Control",
+		"Quick File Move",
+		"SCSS"
+	]
+}
